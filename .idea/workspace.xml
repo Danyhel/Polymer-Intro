@@ -8,6 +8,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Danyhel &lt;daniel.myslivec@post.cz&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XP07WxuQxuDRSkEXqV9c4Mcmq4" />
@@ -31,5 +36,11 @@
       <updated>1580932254565</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="329" y="0" key="CommitChangelistDialog2" timestamp="1580932301463">
+      <screen x="0" y="0" width="1366" height="707" />
+    </state>
+    <state x="329" y="0" key="CommitChangelistDialog2/0.0.1366.707@0.0.1366.707" timestamp="1580932301463" />
   </component>
 </project>
