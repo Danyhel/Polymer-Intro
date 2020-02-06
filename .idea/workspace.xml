@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13f1f280-f205-418c-b13a-132e9c64fc7a" name="Default Changelist" comment="" />
+    <list default="true" id="13f1f280-f205-418c-b13a-132e9c64fc7a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XP07WxuQxuDRSkEXqV9c4Mcmq4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="C:/ProgramData/Oracle/JavaFX/javafx-sdk-11.0.2/lib/javafx.web.jar!/" />
@@ -35,12 +42,43 @@
       <option name="presentableId" value="Default" />
       <updated>1580932254565</updated>
     </task>
+    <task id="LOCAL-00001" summary="IntelliJ Idea project init">
+      <created>1580932302763</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580932302763</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added workspace.xml">
+      <created>1580932371160</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580932371160</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="IntelliJ Idea project init" />
+    <MESSAGE value="Added workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added workspace.xml" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="329" y="0" key="CommitChangelistDialog2" timestamp="1580932301463">
+    <state x="329" y="0" key="CommitChangelistDialog2" timestamp="1580932369921">
       <screen x="0" y="0" width="1366" height="707" />
     </state>
-    <state x="329" y="0" key="CommitChangelistDialog2/0.0.1366.707@0.0.1366.707" timestamp="1580932301463" />
+    <state x="329" y="0" key="CommitChangelistDialog2/0.0.1366.707@0.0.1366.707" timestamp="1580932369921" />
   </component>
 </project>
